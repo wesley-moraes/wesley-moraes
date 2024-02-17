@@ -65,21 +65,4 @@ Let's talk about: Front End, Javascript, React.Js, Business, Games, How life is 
 
 <img src="https://github.com/wesley-moraes/my-stuff/blob/main/Certificado%20LACP.png?raw=true" />
 
-<hr />
-
-<a href="https://github.com/wesley-moraes/my-costs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wesley-moraes&repo=my-costs&theme=swift" />
-</a>
-<a href="https://github.com/wesley-moraes/landingPage-Flash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wesley-moraes&repo=landingPage-Flash&theme=swift" />
-</a>
-<a href="https://github.com/wesley-moraes/quiz-react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wesley-moraes&repo=quiz-react&theme=swift" />
-</a>
-<a href="https://github.com/wesley-moraes/DungeonChars">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wesley-moraes&repo=DungeonChars&theme=swift" />
-</a>
-<a href="https://github.com/wesley-moraes/resident-evil-2-landingpage">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wesley-moraes&repo=resident-evil-2-landingpage&theme=swift" />
-</a>
 </div>
