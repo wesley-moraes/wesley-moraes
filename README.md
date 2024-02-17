@@ -3,7 +3,7 @@
 ## :mushroom: Hello! My name's Wesley Moraes! :v:
 ### And wellcome to my world!
 
-I'm a postgraduate in IT and currently diving into ReactJs! I have a strong passion for front-end development but aspire to become a full-stack developer one day! JavaScript is my love language, and I enjoy spending time refining layout designs. I firmly believe that beauty creates a positive impact, and I strive to make a difference! 😉
+I'm a postgraduate in IT and currently diving into React.js! I have a strong passion for front-end development but aspire to become a full-stack developer one day! JavaScript is my love language, and I enjoy spending time refining layout designs. I firmly believe that beauty creates a positive impact, and I strive to make a difference! 😉
 
 ![alt text](https://github.com/wesley-moraes/my-stuff/blob/main/mario-pixel-art.gif " Coding")
 
