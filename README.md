@@ -13,7 +13,7 @@ I'm a postgraduate in IT and currently diving into ReactJs! I have a strong pass
 
 Let's talk about: Front End, Javascript, React.Js, Business, Games, How life is crazy and How to reach the success! :rocket:
 
-<a href="https://linkedin/in/wesley-moraes/" target="_blank">
+<a href="https://www.linkedin.com/in/wesley-moraes/" target="_blank">
   <img alt="junior-linkedin" width="75" src="https://github.com/wesley-moraes/my-stuff/blob/main/linkedin_2504923.png" style="max-width: 100%" />
 </a>
 <a href="https://wa.me/5512997568988?text=Ol%C3%A1%21+Vim+do+seu+github+%3A%29+" target="_blank">
